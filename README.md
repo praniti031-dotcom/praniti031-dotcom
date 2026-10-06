@@ -7,9 +7,13 @@ I'm a Computer Engineering student who loves exploring technology and learning t
 I enjoy taking an idea and turning it into something I can actually build and experiment with. Right now, I'm focusing on improving my problem-solving skills, building meaningful projects, and getting involved in the open-source community.
 
 🌱 **Currently learning:** DSA, Web Development & Open Source
+
 💻 **Building with:** C++, Python, JavaScript, HTML & CSS
+
 🚀 **Exploring:** Open Source Contributions & GSoC
+
 🎯 **Goal:** Become a better developer, contribute to real-world projects, and keep learning along the way.
+
 
 > Learning → Building → Contributing → Growing 🚀
 
